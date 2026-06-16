@@ -2,7 +2,7 @@
 
 # Syed Areeb Hussain
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Artificial%20Intelligence%20Student;Machine%20Learning%20Explorer;Computer%20Vision%20%26%20Data%20Science%20Enthusiast;Building%20Intelligent%20Solutions&font=Fira%20Code&center=true&width=650&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
+<img src="https://readme-typing-svg.demolab.com/?lines=Artificial%20Intelligence%20Undergrad;Building%20Intelligent%20Solutions&font=Fira%20Code&center=true&width=650&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
 
 ### BS Artificial Intelligence Student at FAST-NUCES
 
@@ -10,7 +10,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 * BS Artificial Intelligence Student at **FAST-NUCES**
 * Continuously learning and building intelligent solutions
@@ -18,7 +18,7 @@
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect
 
 <p align="left">
 <a href="https://www.linkedin.com/in/areebsyed-hussain/" target="_blank">
@@ -97,23 +97,14 @@
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=areebsyedd11&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=areebsyedd11&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=areebsyedd11&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=areebsyedd11&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=areebsyedd11&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=areebsyedd11&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=areebsyedd11&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
