@@ -4,8 +4,6 @@
 
 <img src="https://readme-typing-svg.demolab.com/?lines=Artificial%20Intelligence%20Undergrad;Building%20Intelligent%20Solutions&font=Fira%20Code&center=true&width=650&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
 
-### BS Artificial Intelligence Student at FAST-NUCES
-
 </div>
 
 ---
@@ -72,7 +70,7 @@
 
 ---
 
-## 🤖 AI / Machine Learning
+## 🤖 AI / ML
 
 <p>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
@@ -92,19 +90,4 @@
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-</p>
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=areebsyedd11&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=areebsyedd11&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=areebsyedd11&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
