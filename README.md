@@ -12,7 +12,7 @@
 
 * BS Artificial Intelligence Student at **FAST-NUCES**
 * Continuously learning and building intelligent solutions
-* Interested in AI, ML, Full-Stack Development, and Open Source
+* Interested in AI/ML, Computer Vision
 
 ---
 
