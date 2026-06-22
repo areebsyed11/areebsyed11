@@ -82,8 +82,6 @@
 
 ---
 
-## 🛠️ Tools
-
 ## 🛠️ Tools & Technologies
 
 <p>
@@ -98,7 +96,6 @@
 <p>
   <!-- AI Automation -->
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Make-6366F1?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/GoHighLevel-000000?style=for-the-badge"/>
 </p>
 
